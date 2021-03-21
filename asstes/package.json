@@ -1,0 +1,19 @@
+{
+  "name": "codifycode-package",
+  "version": "1.0.0",
+  "description": "Scripts for codifycode.com",
+  "main": "index.js",
+  "scripts": {
+    "test": "codifycode test"
+  },
+  "keywords": [
+    "blogs",
+    "programming",
+    "coding"
+  ],
+  "author": "codifycode",
+  "license": "ISC",
+  "dependencies": {
+    "bootstrap": "^4.6.0"
+  }
+}
